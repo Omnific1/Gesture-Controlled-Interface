@@ -1,11 +1,3 @@
-
----
-
-## **🔹 3. Arduino Code (gesture_control.ino)**  
-
-Create a new file named **gesture_control.ino** and add the following code:  
-
-```cpp
 #include <NewPing.h>
 
 // Define ultrasonic sensor pins
