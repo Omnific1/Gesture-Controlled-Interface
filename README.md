@@ -1,4 +1,5 @@
 # Gesture-Controlled Laptop Using Arduino & Ultrasonic Sensors
+**Wave to Control: A Touch-Free Media Experience**
 
 A **touch-free interface** that allows users to control a laptop’s media playback using **hand gestures**. This system uses **Arduino Uno** with **HC-SR04 ultrasonic sensors** to detect hand movements and send commands to a Python script, which translates them into **keyboard inputs** for media control.  
 
